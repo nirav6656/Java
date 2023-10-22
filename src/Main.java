@@ -24,7 +24,7 @@ public class Main {
             System.out.println("3");
         }
         else{
-            System.out.println("4");
+            System.out.println("5");
         }
     }
 }
